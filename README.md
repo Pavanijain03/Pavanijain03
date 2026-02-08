@@ -74,9 +74,10 @@
 
 | Project | Description | Repository |
 |-------|------------|-----------|
-| **Credit Card Fraud Detection** | Autoencoders, XGBoost & Neural Networks (92% recall, 94% ROC-AUC) | [Repo](https://github.com/Pavanijain03/credit-card-fraud-detection) |
-| **Amazon Product Recommendation System** | Collaborative filtering with 18% RMSE reduction | [Repo](https://github.com/Pavanijain03/amazon-product-recommendation) |
-| **Netflix Usage Analysis** | SQL + Tableau dashboards for trend analysis | [Repo](https://github.com/Pavanijain03/netflix-usage-analysis) |
+| **Genomic Text Curation & Topic Grouping** | NLP pipeline for genomics literature: entity & relation extraction (variants, genes, diseases), knowledge-graph triples, and topic modeling using TF-IDF, K-Means, NMF, and LDA | [Repo](https://github.com/Pavanijain03/nlp_system_genomics) |
+| **Credit Card Fraud Detection** | Autoencoders, XGBoost & Neural Networks for fraud detection (92% recall, 94% ROC-AUC) | [Repo](https://github.com/Pavanijain03/credit-card-fraud-detection) |
+| **Amazon Product Recommendation System** | Collaborative filtering–based recommendation system with 18% RMSE reduction | [Repo](https://github.com/Pavanijain03/amazon-product-recommendation) |
+| **Netflix Usage Analysis** | SQL-based analysis and Tableau dashboards to study user behavior and subscription trends | [Repo](https://github.com/Pavanijain03/netflix-usage-analysis) |
 
 ---
 
@@ -99,5 +100,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pavanijain03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pavani-jain-ab6488204)
+
 
 
