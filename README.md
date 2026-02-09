@@ -1,7 +1,8 @@
-<div style="width:260px; height:260px; border-radius:50%; overflow:hidden;">
-  <img src="https://raw.githubusercontent.com/Pavanijain03/Pavanijain03/main/profile.jpg"
-       width="260" height="260" />
-</div>
+<img src="https://raw.githubusercontent.com/Pavanijain03/Pavanijain03/main/profile.jpg"
+     width="260"
+     height="260"
+     style="border-radius:50%; object-fit:cover;" />
+
 
   
   # Hello there! Nice to see you.
