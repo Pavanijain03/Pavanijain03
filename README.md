@@ -81,14 +81,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavanijain03&show_icons=true&theme=github_dark" />
-</p>
-
----
-
 ## 📜 Certifications
 - Deep Learning Specialization  
 - Generative AI Certification  
