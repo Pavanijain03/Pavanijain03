@@ -1,11 +1,6 @@
-<img src="https://raw.githubusercontent.com/Pavanijain03/Pavanijain03/main/profile.jpg"
-     width="260"
-     height="260"
-     style="border-radius:50%; object-fit:cover;" />
+<img src="https://raw.githubusercontent.com/Pavanijain03/Pavanijain03/main/profile2.png" width="260" />
 
-
-  
-  # Hello there! Nice to see you.
+# Hello there! Nice to see you.
   
   Welcome to my GitHub profile!  
   I'm **Pavani Jain**, a **Master’s student in Artificial Intelligence** at Northeastern University,  
