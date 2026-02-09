@@ -1,10 +1,13 @@
-<img src="https://raw.githubusercontent.com/Pavanijain03/Pavanijain03/main/profile2.jpg" width="260" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pavanijain03/Pavanijain03/main/profile2.jpg" width="260" />
 
-# Hello there! Nice to see you.
-  
-  Welcome to my GitHub profile!  
-  I'm **Pavani Jain**, a **Master’s student in Artificial Intelligence** at Northeastern University,  
-  passionate about building intelligent systems using **Machine Learning, Data Science, and Deep Learning**.
+  <h2>Hello there! Nice to see you.</h2>
+
+  <p>
+    Welcome to my GitHub profile! <br/>
+    I'm <b>Pavani Jain</b>, a Master’s student in Artificial Intelligence at Northeastern University, <br/>
+    passionate about building intelligent systems using <b>Machine Learning, Data Science, and Deep Learning</b>.
+  </p>
 </div>
 
 ---
