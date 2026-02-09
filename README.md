@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Pavanijain03/Pavanijain03/main/profile2.png" width="260" />
+<img src="https://raw.githubusercontent.com/Pavanijain03/Pavanijain03/main/profile2.jpg" width="260" />
 
 # Hello there! Nice to see you.
   
