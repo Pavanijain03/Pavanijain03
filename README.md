@@ -76,7 +76,7 @@
 
 | Project | Description | Repository |
 |-------|------------|-----------|
-| **nanochat (LLM Pretraining & Systems Optimization)** | Built and adapted a minimal GPT training harness from scratch, enabling reproducible GPT-2-grade model training in ~3 hours (<$100) by optimizing distributed pretraining, transformer depth scaling, batch scheduling, and automated hyperparameter computation across the training stack | [Repo](https://github.com/Pavanijain03/nanochat_architect) |
+| **Nanochat – GPT Pretraining & LLM Systems Optimization** | Built and adapted a minimal GPT training harness from scratch, enabling reproducible GPT-2-grade model training in ~3 hours (<$100) by optimizing distributed pretraining, transformer depth scaling, batch scheduling, and automated hyperparameter computation across the training stack | [Repo](https://github.com/Pavanijain03/nanochat_architect) |
 | **Genomic Text Curation & Topic Grouping** | NLP pipeline for genomics literature: entity & relation extraction (variants, genes, diseases), knowledge-graph triples, and topic modeling using TF-IDF, K-Means, NMF, and LDA | [Repo](https://github.com/Pavanijain03/nlp_system_genomics) |
 | **Credit Card Fraud Detection** | Autoencoders, XGBoost & Neural Networks for fraud detection (92% recall, 94% ROC-AUC) | [Repo](https://github.com/Pavanijain03/credit-card-fraud-detection) |
 | **Amazon Product Recommendation System** | Collaborative filtering–based recommendation system with 18% RMSE reduction | [Repo](https://github.com/Pavanijain03/amazon-product-recommendation) |
