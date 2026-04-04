@@ -80,7 +80,7 @@
 ## 💼 Experience
 
 ### 📌 ML Researcher (Oct 2025 – Dec 2025)
-*Northeastern University | Boston, MA*
+*Northeastern University | Boston, MA*<br/>
 *Anomaly Detection in Financial Transactions Using Deep Learning*
 - Authored a research paper on **autoencoder-based fraud detection** on imbalanced data (<0.2% fraud), reviewing **25+ published works** and comparing 4 architectures (LR, RF, XGBoost, Autoencoder) with SMOTE, undersampling, and feature engineering
 - Performed end-to-end experimentation including preprocessing, threshold tuning, and ablation studies; documented methodology, metrics (**ROC-AUC, precision-recall, F1**), and reproducible results per ML research standards
@@ -108,7 +108,7 @@
 
 ## 🏆 Activities & Leadership
 
-### 📌 Participant, NU Hacks 48 hour Hackathon (March 2026)
+### 📌 Participant, NU Hacks - 48 hour Hackathon (March 2026)
 *Northeastern University | Boston, MA*
 - Built a **RAG clinical Q&A prototype** with LangChain, indexing **1,000+ medical docs** for cardio/oncology queries
 - Trained an **LSTM** on **500+ simulated patient timelines** to flag early heart disease and cancer risk indicators
