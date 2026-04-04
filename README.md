@@ -82,7 +82,6 @@
 ### 📌 ML Researcher (Oct 2025 – Dec 2025)
 Northeastern University | Boston, MA
 > *Anomaly Detection in Financial Transactions Using Deep Learning*
-University in plain text, project title in an indented italic blockquote. Consistent with the rest.
 - Authored a research paper on **autoencoder-based fraud detection** on imbalanced data (<0.2% fraud), reviewing **25+ published works** and comparing 4 architectures (LR, RF, XGBoost, Autoencoder) with SMOTE, undersampling, and feature engineering
 - Performed end-to-end experimentation including preprocessing, threshold tuning, and ablation studies; documented methodology, metrics (**ROC-AUC, precision-recall, F1**), and reproducible results per ML research standards
 
