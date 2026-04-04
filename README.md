@@ -90,15 +90,6 @@
 - Built **5 Tableau dashboards** for model outputs, season trends, and player KPIs used in weekly team strategy reviews
 - Collaborated in an agile setting with daily standups; mentored 1 peer on pandas-based data wrangling
 
-### 📌 Participant — NU Hacks, 48-hour Hackathon (March 2026)
-- Built a **RAG clinical Q&A prototype** with LangChain, indexing **1,000+ medical docs** for cardio/oncology queries
-- Trained an **LSTM** on **500+ simulated patient timelines** to flag early heart disease and cancer risk indicators
-- Optimized retrieval via ANN search and prompt tuning, achieving **sub-2-second** average query response time
-
-### 📌 Member — Northeastern AI Club (Sep 2025 – Present)
-- Participated in AI & ML workshops and hands-on sessions covering PyTorch, TensorFlow, and scikit-learn
-- Collaborated on 4 team projects spanning NLP text classification and image classification with CNNs
-
 ---
 
 ## 🧠 Projects
@@ -110,6 +101,21 @@
 | **Credit Card Fraud Detection** | Autoencoders, XGBoost & Neural Networks for fraud detection on imbalanced data (<0.2% fraud). Best model achieved 94% ROC-AUC and 92% recall. Accompanying research paper authored. | [Repo](https://github.com/Pavanijain03/credit-card-fraud-detection) |
 | **Amazon Product Recommendation System** | Collaborative filtering using matrix factorization (SVD) on Amazon review data with 18% RMSE reduction over baseline. Evaluated across cold-start and warm-start user segments. | [Repo](https://github.com/Pavanijain03/amazon-product-recommendation) |
 | **Netflix Usage Analysis** | SQL-based analysis and Tableau dashboards to study user behavior and subscription trends | [Repo](https://github.com/Pavanijain03/netflix-usage-analysis) |
+
+---
+
+## 🏆 Activities & Leadership
+
+### 📌 Participant — NU Hacks, 48-hour Hackathon (March 2026)
+*Northeastern University | Boston, MA*
+- Built a **RAG clinical Q&A prototype** with LangChain, indexing **1,000+ medical docs** for cardio/oncology queries
+- Trained an **LSTM** on **500+ simulated patient timelines** to flag early heart disease and cancer risk indicators
+- Optimized retrieval via ANN search and prompt tuning, achieving **sub-2-second** average query response time
+
+### 📌 Member — Northeastern AI Club (Sep 2025 – Present)
+*Northeastern University | Boston, MA*
+- Participated in AI & ML workshops and hands-on sessions covering PyTorch, TensorFlow, and scikit-learn
+- Collaborated on 4 team projects spanning NLP text classification and image classification with CNNs
 
 ---
 
@@ -125,6 +131,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pavanijain03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pavani-jain-ab6488204)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pavanijain03.github.io)
+
 
 
 
