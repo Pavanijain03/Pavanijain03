@@ -79,13 +79,14 @@
 
 ## 💼 Experience
 
-### 📌 ML Researcher — Northeastern University (Oct 2025 – Dec 2025)
-*Anomaly Detection in Financial Transactions Using Deep Learning | Boston, MA*
+### 📌 ML Researcher (Oct 2025 – Dec 2025)
+*Northeastern University | Boston, MA*
+*Anomaly Detection in Financial Transactions Using Deep Learning*
 - Authored a research paper on **autoencoder-based fraud detection** on imbalanced data (<0.2% fraud), reviewing **25+ published works** and comparing 4 architectures (LR, RF, XGBoost, Autoencoder) with SMOTE, undersampling, and feature engineering
 - Performed end-to-end experimentation including preprocessing, threshold tuning, and ablation studies; documented methodology, metrics (**ROC-AUC, precision-recall, F1**), and reproducible results per ML research standards
 
-### 📌 Data Analyst Intern — Verve Bridge (Jul 2024 – Aug 2024)
-*Delhi, India*
+### 📌 Data Analyst Intern (Jul 2024 – Aug 2024)
+*Verve Bridge | Delhi, India*
 - Engineered **15+ features** from **50K+ NBA records** and trained 4 models (LR, DT, RF, XGBoost) achieving **~82% accuracy**, **~20% error reduction** over baselines
 - Automated data cleaning in Python (Pandas, NumPy), cutting preprocessing from **~3 hours to ~20 minutes** per refresh
 - Built **5 Tableau dashboards** for model outputs, season trends, and player KPIs used in weekly team strategy reviews
@@ -107,13 +108,13 @@
 
 ## 🏆 Activities & Leadership
 
-### 📌 Participant — NU Hacks, 48-hour Hackathon (March 2026)
+### 📌 Participant, NU Hacks — 48-hour Hackathon (March 2026)
 *Northeastern University | Boston, MA*
 - Built a **RAG clinical Q&A prototype** with LangChain, indexing **1,000+ medical docs** for cardio/oncology queries
 - Trained an **LSTM** on **500+ simulated patient timelines** to flag early heart disease and cancer risk indicators
 - Optimized retrieval via ANN search and prompt tuning, achieving **sub-2-second** average query response time
 
-### 📌 Member — Northeastern AI Club (Sep 2025 – Present)
+### 📌 Member, Northeastern AI Club (Sep 2025 – Present)
 *Northeastern University | Boston, MA*
 - Participated in AI & ML workshops and hands-on sessions covering PyTorch, TensorFlow, and scikit-learn
 - Collaborated on 4 team projects spanning NLP text classification and image classification with CNNs
