@@ -85,6 +85,7 @@
 - Performed end-to-end experimentation including preprocessing, threshold tuning, and ablation studies; documented methodology, metrics (**ROC-AUC, precision-recall, F1**), and reproducible results per ML research standards
 
 ### 📌 Data Analyst Intern — Verve Bridge (Jul 2024 – Aug 2024)
+*Delhi, India*
 - Engineered **15+ features** from **50K+ NBA records** and trained 4 models (LR, DT, RF, XGBoost) achieving **~82% accuracy**, **~20% error reduction** over baselines
 - Automated data cleaning in Python (Pandas, NumPy), cutting preprocessing from **~3 hours to ~20 minutes** per refresh
 - Built **5 Tableau dashboards** for model outputs, season trends, and player KPIs used in weekly team strategy reviews
@@ -131,8 +132,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pavanijain03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pavani-jain-ab6488204)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pavanijain03.github.io)
-
-
-
-
-
