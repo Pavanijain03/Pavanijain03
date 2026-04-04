@@ -79,9 +79,9 @@
 
 ## 💼 Experience
 
-### 📌 ML Researcher — Independent (Apr 2025 – Aug 2025)
-*Anomaly Detection in Financial Transactions Using Deep Learning | Manuscript Completed*
-- Authored a research paper on **autoencoder-based fraud detection** on imbalanced data (<0.2% fraud), reviewing **15+ published works** and comparing 4 architectures (LR, RF, XGBoost, Autoencoder) with SMOTE, undersampling, and feature engineering
+### 📌 ML Researcher — Northeastern University (Oct 2025 – Dec 2025)
+*Anomaly Detection in Financial Transactions Using Deep Learning | Boston, MA*
+- Authored a research paper on **autoencoder-based fraud detection** on imbalanced data (<0.2% fraud), reviewing **25+ published works** and comparing 4 architectures (LR, RF, XGBoost, Autoencoder) with SMOTE, undersampling, and feature engineering
 - Performed end-to-end experimentation including preprocessing, threshold tuning, and ablation studies; documented methodology, metrics (**ROC-AUC, precision-recall, F1**), and reproducible results per ML research standards
 
 ### 📌 Data Analyst Intern — Verve Bridge (Jul 2024 – Aug 2024)
@@ -125,7 +125,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pavanijain03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pavani-jain-ab6488204)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pavanijain03.github.io)
-
 
 
 
