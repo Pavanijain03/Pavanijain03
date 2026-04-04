@@ -108,7 +108,7 @@
 
 ## 🏆 Activities & Leadership
 
-### 📌 Participant, NU Hacks — 48-hour Hackathon (March 2026)
+### 📌 Participant, NU Hacks 48 hour Hackathon (March 2026)
 *Northeastern University | Boston, MA*
 - Built a **RAG clinical Q&A prototype** with LangChain, indexing **1,000+ medical docs** for cardio/oncology queries
 - Trained an **LSTM** on **500+ simulated patient timelines** to flag early heart disease and cancer risk indicators
