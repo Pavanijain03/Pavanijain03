@@ -6,7 +6,11 @@
   <p>
     Welcome to my GitHub profile! <br/>
     I'm <b>Pavani Jain</b>, a Master's student in Artificial Intelligence at Northeastern University, <br/>
-    passionate about building intelligent systems using <b>Machine Learning, Data Science, and Deep Learning</b>.
+    currently building AI orchestration, RAG, and LLM-evaluation systems for production at <b><a href="https://thinqr.io/">Thinqr</a></b>.
+  </p>
+
+  <p>
+    📍 Boston, MA &nbsp;·&nbsp; ✉️ <a href="mailto:jain.pav@northeastern.edu">jain.pav@northeastern.edu</a> &nbsp;·&nbsp; 🌐 <a href="https://pavanijain03.github.io">Portfolio</a>
   </p>
 </div>
 
@@ -27,15 +31,16 @@
 ---
 
 ### 🤖 Machine Learning & AI
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-darkred)
+![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-1f5fb2)
+![RAG](https://img.shields.io/badge/RAG-darkgreen)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-green)
+![Generative AI](https://img.shields.io/badge/Generative_AI-blueviolet)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-orange)
 ![NLP](https://img.shields.io/badge/NLP-purple)
-![Generative AI](https://img.shields.io/badge/Generative_AI-blueviolet)
-![RAG](https://img.shields.io/badge/RAG-darkgreen)
 ![MLOps](https://img.shields.io/badge/MLOps-teal)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-brown)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-red)
-![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-blue)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-green)
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing-yellow)
 
 ---
@@ -43,53 +48,58 @@
 ### 📊 Libraries & Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-f7931e?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?style=flat&logo=anthropic&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
 ### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-e97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-569A31?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
 ---
 
 ## 💼 Experience
 
+### 📌 AI Engineer Intern (May 2026 – Present)
+*[Thinqr](https://thinqr.io/) – AI-native technical interview platform | Texas, USA (Remote)*
+- Architected the **AI orchestration layer** (Python, LangChain, LangGraph, OpenAI/Anthropic APIs) powering **5+ multi-agent, multi-turn interview workflows** with stateful agent graphs, **8+ tool-calling nodes**, and structured output parsing across **3 seniority tiers and 4 role families**
+- Built an **LLM-as-judge evaluation pipeline** scoring **6 competency dimensions** over **50+ behavioral signals per session** with prompt-engineered guardrails, hallucination checks, and chain-of-thought traces — producing reproducible, auditable scorecards
+- Developed a production **RAG pipeline** (FAISS, pgvector, sentence-transformers, hybrid retrieval) over **100+ scenarios** at **~90% top-5 accuracy**; integrated with Dockerized Linux workspaces on AWS (EC2, Bedrock) and FastAPI microservices — cutting session spin-up from **~2 min to ~25 sec**, P95 LLM latency to **~1.8 sec**
+
 ### 📌 ML Researcher (Oct 2025 – Dec 2025)
 *Northeastern University | Boston, MA*
 - Authored a research paper on **Anomaly Detection in Financial Transactions Using Deep Learning**, investigating autoencoder-based fraud detection on imbalanced data (<0.2% fraud), reviewing **25+ published works** and comparing 4 architectures (LR, RF, XGBoost, Autoencoder) with SMOTE, undersampling, and feature engineering
-- Performed end-to-end experimentation including preprocessing, threshold tuning, and ablation studies; documented methodology, metrics (**ROC-AUC, precision-recall, F1**), and reproducible results per ML research standards
+- Ran end-to-end experimentation (preprocessing, threshold tuning, ablation studies); documented methodology, metrics (**ROC-AUC, precision-recall, F1**), and reproducible results per ML research standards
 
-### 📌 Data Analyst Intern (Jul 2024 – Aug 2024)
+### 📌 Data Analyst Intern (Jun 2024 – Sep 2024)
 *Verve Bridge | Delhi, India*
-- Engineered **15+ features** from **50K+ NBA records** and trained 4 models (LR, DT, RF, XGBoost) achieving **~82% accuracy**, **~20% error reduction** over baselines
-- Automated data cleaning in Python (Pandas, NumPy), cutting preprocessing from **~3 hours to ~20 minutes** per refresh
-- Built **5 Tableau dashboards** for model outputs, season trends, and player KPIs used in weekly team strategy reviews
-- Collaborated in an agile setting with daily standups; mentored 1 peer on pandas-based data wrangling
+- Identified a **~6% payment success-rate gap** by writing **50+ SQL queries** (CTEs, window functions, joins) on **50K+ transactions**, slicing KPIs by payment method, bank, and merchant segment — surfacing 3 underperforming routes that triggered an A/B test on retry logic
+- Built an end-to-end **ETL pipeline** in Python (Pandas, NumPy, SQLAlchemy) consolidating transaction logs, settlements, and chargebacks from PostgreSQL — cutting manual prep from **~3 hrs to ~20 mins** with data-quality checks flagging 10+ weekly exceptions
+- Delivered **3 Tableau dashboards** adopted in weekly business reviews covering transaction volume, conversion rates, refund-to-chargeback ratios, and onboarding funnel — enabling self-serve analytics for product, operations, and growth stakeholders
 
 ---
 
@@ -107,7 +117,7 @@
 
 ## 🏆 Activities & Leadership
 
-### 📌 Participant, NU Hacks - 48 hour Hackathon (March 2026)
+### 📌 Participant, NU Hacks – 48 Hour Hackathon (March 2026)
 *Northeastern University | Boston, MA*
 - Built a **RAG clinical Q&A prototype** with LangChain, indexing **1,000+ medical docs** for cardio/oncology queries
 - Trained an **LSTM** on **500+ simulated patient timelines** to flag early heart disease and cancer risk indicators
