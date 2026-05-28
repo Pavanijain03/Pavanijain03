@@ -112,6 +112,7 @@
 | **Credit Card Fraud Detection** | Autoencoders, XGBoost & Neural Networks for fraud detection on imbalanced data (<0.2% fraud). Best model achieved 94% ROC-AUC and 92% recall. Accompanying research paper authored. | [Repo](https://github.com/Pavanijain03/credit-card-fraud-detection) |
 | **Amazon Product Recommendation System** | Collaborative filtering using matrix factorization (SVD) on Amazon review data with 18% RMSE reduction over baseline. Evaluated across cold-start and warm-start user segments. | [Repo](https://github.com/Pavanijain03/amazon-product-recommendation) |
 | **Netflix Usage Analysis** | SQL-based analysis and Tableau dashboards to study user behavior and subscription trends | [Repo](https://github.com/Pavanijain03/netflix-usage-analysis) |
+| Bank Loan Analysis | Interactive 3-view Tableau dashboard (Summary, Overview, Details) on a 38.6K-loan, $435.7M-funded lending portfolio. Tracks KPIs (interest rate, DTI, MTD/MoM trends), portfolio quality (86.2% good vs 13.8% bad loans), and drill-down analytics across grade, purpose, state, employment length, and home ownership. | [Repo](https://github.com/Pavanijain03/bank_loan_analysis) |
 
 ---
 
