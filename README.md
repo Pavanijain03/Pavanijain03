@@ -10,9 +10,7 @@
     most recently in production as an AI Engineer Intern at <b><a href="https://thinqr.io/">Thinqr</a></b>.
   </p>
 
-  <p>
-    🔎 Seeking <b>co-op roles now</b> and <b>full-time roles starting Spring 2028</b> in applied LLM / agent engineering
-  </p>
+ 
 
   <p>
     📍 Boston, MA &nbsp;·&nbsp; ✉️ <a href="mailto:jain.pav@northeastern.edu">jain.pav@northeastern.edu</a> &nbsp;·&nbsp; 🌐 <a href="https://pavanijain03.github.io">Portfolio</a>
@@ -94,7 +92,7 @@
 ## 🎓 Education
 
 - **MS in Artificial Intelligence** – Northeastern University, Boston, MA (Expected December 2027) · GPA 3.54/4.00
-- **Bachelor of Computer Applications (BCA)** – VIPS, GGSIPU, Delhi (June 2025) · GPA 3.64
+- **Bachelor of Computer Applications (BCA)** – VIPS, GGSIPU, Delhi (June 2025) · GPA 3.64/4.00
 
 ---
 
