@@ -1,142 +1,722 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pavanijain03/Pavanijain03/main/profile2.jpg" width="260" />
+<!DOCTYPE html>
+<html lang="en">
 
-  <h2>Hello there! Nice to see you.</h2>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pavani Jain | AI Engineer – LLMs, Agents & RAG</title>
+  <meta name="description" content="Pavani Jain – MS in AI at Northeastern. Applied AI engineer building LLM agents, RAG pipelines, and LLM evaluation systems.">
 
-  <p>
-    Welcome to my GitHub profile! <br/>
-    I'm <b>Pavani Jain</b>, a Master's student in Artificial Intelligence at Northeastern University <br/>
-    and a Graduate Teaching Assistant for Information Retrieval. I build agentic AI, RAG, and LLM-evaluation systems — <br/>
-    most recently in production as an AI Engineer Intern at <b><a href="https://thinqr.io/">Thinqr</a></b>.
-  </p>
+  <link rel="shortcut icon" href="./assets/images/logo.ico" type="image/x-icon">
+  <link rel="stylesheet" href="./assets/css/style.css">
 
-  <p>
-    🔎 Seeking co-op &amp; internship roles in applied LLM / agent engineering
-  </p>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 
-  <p>
-    📍 Boston, MA &nbsp;·&nbsp; ✉️ <a href="mailto:jain.pav@northeastern.edu">jain.pav@northeastern.edu</a> &nbsp;·&nbsp; 🌐 <a href="https://pavanijain03.github.io">Portfolio</a>
-  </p>
-</div>
+  <!-- Small additions for the new skills layout and experience bullets.
+       Move these into style.css whenever you like. -->
+  <style>
+    .skills-group { margin-bottom: 18px; }
+    .skills-group:last-child { margin-bottom: 0; }
+    .skills-group .h5 { margin-bottom: 10px; }
+    .skills-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+    .timeline-bullets { margin-top: 6px; padding-left: 18px; list-style: disc; }
+    .timeline-bullets li { margin-bottom: 4px; }
+  </style>
+</head>
 
----
+<body>
 
-## 🛠️ Technologies I Work With
+  <main>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+    <!-- SIDEBAR -->
+    <aside class="sidebar" data-sidebar>
 
-### 🤖 LLMs & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?style=flat&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-darkgreen)
-![Multi--Agent Workflows](https://img.shields.io/badge/Multi--Agent_Workflows-darkred)
-![LLM Evaluation](https://img.shields.io/badge/LLM--as--Judge_Evaluation-1f5fb2)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-green)
+      <div class="sidebar-info">
+        <figure class="avatar-box">
+          <img src="./assets/images/memoji.jpg" alt="Pavani Jain" width="80">
+        </figure>
 
-### 🧠 Machine Learning & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-f7931e?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-purple)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-brown)
+        <div class="info-content">
+          <h1 class="name">Pavani Jain</h1>
+          <p class="title">AI Engineer | LLMs, Agents & RAG</p>
+        </div>
 
-### 🗄️ Data, Infra & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_(EC2,_Bedrock)-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-e97627?style=flat&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
+        <button class="info_more-btn" data-sidebar-btn>
+          <span>Show Contacts</span>
+          <ion-icon name="chevron-down"></ion-icon>
+        </button>
+      </div>
 
----
+      <div class="sidebar-info_more">
 
-## 💼 Experience
+        <div class="separator"></div>
 
-### 📌 Graduate Teaching Assistant – Information Retrieval (Sep 2026 – Present)
-*Northeastern University | Boston, MA*
-- Support a **100+ student** cohort in Information Retrieval through grading, assignment support, and weekly office hours
-- Contribute to course design, helping shape assignments and course materials
+        <ul class="contacts-list">
 
-### 📌 AI Engineer Intern (May 2026 – Aug 2026)
-*[Thinqr](https://thinqr.io/) – AI-native technical interview platform | Austin, TX*
-- Architected the **AI orchestration layer** (Python, LangChain, LangGraph, OpenAI/Anthropic APIs) powering **5+ multi-agent, multi-turn interview workflows** with stateful agent graphs, **8+ tool-calling nodes**, and structured output parsing across **3 seniority tiers and 4 role families**
-- Built an **LLM-as-judge evaluation pipeline** scoring **6 competency dimensions** over **50+ behavioral signals per session** with prompt-engineered guardrails, hallucination checks, and chain-of-thought traces — producing reproducible, auditable scorecards
-- Developed a production **RAG pipeline** (FAISS, pgvector, sentence-transformers, hybrid retrieval) over **100+ scenarios** at **~90% top-5 accuracy**; integrated with Dockerized Linux workspaces on AWS (EC2, Bedrock) and FastAPI microservices — cutting session spin-up from **~2 min to ~25 sec**, P95 LLM latency to **~1.8 sec**
+          <li class="contact-item">
+            <div class="icon-box">
+              <ion-icon name="mail-outline"></ion-icon>
+            </div>
+            <div class="contact-info">
+              <p class="contact-title">Email</p>
+              <a href="mailto:jain.pav@northeastern.edu" class="contact-link">
+                jain.pav@northeastern.edu
+              </a>
+            </div>
+          </li>
 
-### 📌 ML Researcher (Oct 2025 – Dec 2025)
-*Northeastern University | Boston, MA*
-- Authored a research paper on **Anomaly Detection in Financial Transactions Using Deep Learning**, investigating autoencoder-based fraud detection on imbalanced data (<0.2% fraud), reviewing **25+ published works** and comparing 4 architectures (LR, RF, XGBoost, Autoencoder) with SMOTE, undersampling, and feature engineering
-- Ran end-to-end experimentation (preprocessing, threshold tuning, ablation studies); documented methodology, metrics (**ROC-AUC, precision-recall, F1**), and reproducible results
+          <li class="contact-item">
+            <div class="icon-box">
+              <ion-icon name="phone-portrait-outline"></ion-icon>
+            </div>
+            <div class="contact-info">
+              <p class="contact-title">Phone</p>
+              <a href="tel:+16175169584" class="contact-link">
+                +1 (617) 516-9584
+              </a>
+            </div>
+          </li>
 
-### 📌 Data Analyst Intern (Jun 2024 – Sep 2024)
-*Verve Bridge | Delhi, India*
-- Identified a **~6% payment success-rate gap** by writing **50+ SQL queries** (CTEs, window functions, joins) on **50K+ transactions**, slicing KPIs by payment method, bank, and merchant segment — surfacing 3 underperforming routes that triggered an A/B test on retry logic
-- Built an end-to-end **ETL pipeline** in Python (Pandas, NumPy, SQLAlchemy) consolidating transaction logs, settlements, and chargebacks from PostgreSQL — cutting manual prep from **~3 hrs to ~20 mins** with data-quality checks flagging 10+ weekly exceptions
-- Delivered **3 Tableau dashboards** adopted in weekly business reviews covering transaction volume, conversion rates, refund-to-chargeback ratios, and onboarding funnel — enabling self-serve analytics for product, operations, and growth stakeholders
+          <li class="contact-item">
+            <div class="icon-box">
+              <ion-icon name="school-outline"></ion-icon>
+            </div>
+            <div class="contact-info">
+              <p class="contact-title">Seeking</p>
+              <p>Co-op now · Full-time from Spring 2028</p>
+            </div>
+          </li>
 
----
+          <li class="contact-item">
+            <div class="icon-box">
+              <ion-icon name="location-outline"></ion-icon>
+            </div>
+            <div class="contact-info">
+              <p class="contact-title">Location</p>
+              <address>Boston, MA, USA</address>
+            </div>
+          </li>
 
-## 🎓 Education
+        </ul>
 
-- **MS in Artificial Intelligence** – Northeastern University, Boston, MA (Expected 2027) · GPA 3.54/4.00
-- **Bachelor of Computer Applications (BCA)** – VIPS, GGSIPU, Delhi (June 2025) · GPA 3.64
+        <div class="separator"></div>
 
----
+        <ul class="social-list">
+          <li class="social-item">
+            <a href="https://github.com/Pavanijain03" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="GitHub">
+              <ion-icon name="logo-github"></ion-icon>
+            </a>
+          </li>
+          <li class="social-item">
+            <a href="https://www.linkedin.com/in/pavani-jain-ab6488204/" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="LinkedIn">
+              <ion-icon name="logo-linkedin"></ion-icon>
+            </a>
+          </li>
+        </ul>
 
-## 🧠 Projects
+      </div>
+    </aside>
 
-| Project | Description | Repository |
-|-------|------------|-----------|
-| **Nanochat – GPT Pretraining & LLM Systems Optimization** | Built a GPT-style LM from scratch (BPE tokenizer, multi-head attention, training loop, chat interface). Trained on FineWeb-Edu with 8×H100 GPUs; reached GPT-2-level validation loss in ~3 hrs at ~$72 compute cost. Studied compute-quality tradeoffs by varying transformer depth, learning rate schedules, and batch sizing. | [Repo](https://github.com/Pavanijain03/nanochat_architect) |
-| **FairSearch-arXiv – Prestige Bias in Retrieval & LLM Generation** | Team project (CS 6200) auditing institutional prestige bias in dense retrieval and LLM generation over a **~50K-paper arXiv corpus**. Owned corpus enrichment and fairness evaluation. SPD confidence intervals spanned zero at every k; **Fair-Top-K preserved precision while MMR cost 2–5 precision points** with no measurable fairness gain. Results surfaced in a Streamlit fairness scorecard. | [Repo](#) <!-- TODO: add repo URL --> |
-| **OCT Retinal Disease Detection** | Fine-tuned a **DenseNet-121** (ImageNet transfer learning, frozen feature extractor + retrained classification head) for binary retinal-disease classification (ABNORMAL vs NORMAL) on **100K+ labeled OCT scans** (Kermany et al.). Addressed class imbalance with **weighted cross-entropy loss**; reached **95.4% test accuracy, 96.7% recall, 98.8% ROC-AUC**. Shipped an interactive **Streamlit** inference app. | [Repo](https://github.com/Pavanijain03/oct_retinal_disease_detection) |
-| **Genomic Text Curation & Topic Grouping** | NLP pipeline for genomics literature: extracted gene-variant-disease triples from 50 abstracts, producing **76 knowledge-graph-ready triples** (40 variants, 37 genes, 19 diseases) with **84% variant and 78% gene recall**. Compared TF-IDF + K-Means, NMF, and LDA for topic modeling. | [Repo](https://github.com/Pavanijain03/nlp_system_genomics) |
-| **Credit Card Fraud Detection** | Compared Logistic Regression, Random Forest, XGBoost, and Autoencoders for fraud detection on highly imbalanced data (<0.2% fraud). Best model reached **94% ROC-AUC and 92% recall**. Companion to the research paper above. | [Repo](https://github.com/Pavanijain03/credit-card-fraud-detection) |
-| **Amazon Product Recommendation System** | Collaborative filtering with matrix factorization (SVD) on Amazon review data, achieving an **18% RMSE reduction over baseline**. Evaluated across cold-start and warm-start user segments. | [Repo](https://github.com/Pavanijain03/amazon-product-recommendation) |
-| **Bank Loan Analysis** | Interactive 3-view Tableau dashboard (Summary, Overview, Details) on a **38.6K-loan, $435.7M-funded** lending portfolio. Tracks KPIs (interest rate, DTI, MTD/MoM trends), portfolio quality (86.2% good vs 13.8% bad loans), and drill-down across grade, purpose, state, employment length, and home ownership. | [Repo](https://github.com/Pavanijain03/bank_loan_analysis) |
-| **Netflix Usage Analysis** | SQL-based analysis and interactive Tableau dashboards exploring Netflix titles by country, genre, and year to surface content trends and growth patterns. | [Repo](https://github.com/Pavanijain03/netflix-usage-analysis) |
+    <!-- MAIN CONTENT -->
+    <div class="main-content">
 
----
+      <!-- NAVBAR -->
+      <nav class="navbar">
+        <ul class="navbar-list">
+          <li class="navbar-item">
+            <button class="navbar-link active" data-nav-link data-target="about">About</button>
+          </li>
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link data-target="resume">Resume</button>
+          </li>
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link data-target="portfolio">Projects</button>
+          </li>
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link data-target="contact">Contact</button>
+          </li>
+        </ul>
+      </nav>
 
-## 🏆 Activities & Leadership
+      <!-- ABOUT -->
+      <article class="about active" data-page="about">
 
-### 📌 1st Runner-Up, NU Hacks – 48-Hour Hackathon (March 2026)
-*Northeastern University | Boston, MA · Team of 4*
-- Built a **RAG clinical Q&A prototype** with LangChain, indexing **1,000+ medical docs** for cardiology and oncology queries
-- Trained an **LSTM** on **500+ simulated patient timelines** to flag early heart disease and cancer risk indicators
-- Optimized retrieval via ANN search and prompt tuning, achieving **sub-2-second** average query response time
+        <header>
+          <h2 class="h2 article-title">About Me</h2>
+        </header>
 
-### 📌 Member, Northeastern AI Club (Sep 2025 – Present)
-*Northeastern University | Boston, MA*
-- Participated in AI & ML workshops and hands-on sessions covering PyTorch, TensorFlow, and scikit-learn
-- Collaborated on 4 team projects spanning NLP text classification and image classification with CNNs
+        <section class="about-text">
+          <p>
+            I'm an MS in Artificial Intelligence student at Northeastern University and a Graduate Teaching
+            Assistant for Information Retrieval. I build applied LLM systems: agentic workflows, retrieval
+            pipelines, and the evaluation frameworks that show whether they actually work.
+          </p>
+          <p>
+            As an AI Engineer Intern at Thinqr, I worked on production LLM systems, including agentic LangGraph
+            workflows, a RAG pipeline reaching ~90% top-5 accuracy, and an LLM-as-judge evaluation framework
+            covering 6 dimensions and 50+ signals. I'm currently looking for co-op roles, and for full-time
+            roles starting Spring 2028, in applied LLM and agent engineering.
+          </p>
+        </section>
 
----
+        <section class="service">
+          <h3 class="h3 service-title">What I Work On</h3>
 
-## 📜 Certifications
-- **Data Science Job Simulation** – BCG X via Forage (Feb 2026): Churn prediction and client presentation using Python and SQL
-- **Generative AI Mastermind** – Outskill (Jan 2026): LLM-powered apps using prompt chaining and LangChain
-- **Deep Learning Specialization** – DeepLearning.AI (Oct 2025): CNNs, RNNs, sequence models across 5 courses <!-- VERIFY: confirm you completed and hold this certificate -->
+          <ul class="service-list">
 
----
+            <li class="service-item">
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-dev.svg" alt="" width="40">
+              </div>
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">LLM Agents</h4>
+                <p class="service-item-text">Multi-step agentic workflows with LangGraph.</p>
+              </div>
+            </li>
 
-## 🤝 Connect With Me
+            <li class="service-item">
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-design.svg" alt="" width="40">
+              </div>
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">RAG &amp; Retrieval</h4>
+                <p class="service-item-text">Retrieval pipelines, dense retrieval, and ranking fairness.</p>
+              </div>
+            </li>
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pavanijain03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pavani-jain-ab6488204)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pavanijain03.github.io)
+            <li class="service-item">
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-app.svg" alt="" width="40">
+              </div>
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">LLM Evaluation</h4>
+                <p class="service-item-text">LLM-as-judge frameworks and retrieval metrics.</p>
+              </div>
+            </li>
+
+            <li class="service-item">
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-photo.svg" alt="" width="40">
+              </div>
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Deep Learning</h4>
+                <p class="service-item-text">Model training and fine-tuning in PyTorch.</p>
+              </div>
+            </li>
+
+          </ul>
+        </section>
+
+      </article>
+
+      <!-- RESUME -->
+      <article class="resume" data-page="resume">
+
+        <header>
+          <h2 class="h2 article-title">Resume</h2>
+        </header>
+
+        <!-- EXPERIENCE -->
+        <section class="timeline">
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="briefcase-outline"></ion-icon>
+            </div>
+            <h3 class="h3">Experience</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Graduate Teaching Assistant – Information Retrieval</h4>
+              <span>Northeastern University · Sep 2026 – Present</span>
+              <ul class="timeline-text timeline-bullets">
+                <li>Support a 100+ student cohort with grading, assignments, and weekly office hours.</li>
+                <li>Contribute to course design for the Information Retrieval curriculum.</li>
+              </ul>
+            </li>
+
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">AI Engineer Intern</h4>
+              <span>Thinqr · Austin, TX · May – Aug 2026</span>
+              <ul class="timeline-text timeline-bullets">
+                <li>Built agentic LangGraph workflows for production LLM systems.</li>
+                <li>Developed a RAG pipeline reaching ~90% top-5 retrieval accuracy.</li>
+                <li>Designed an LLM-as-judge evaluation framework spanning 6 dimensions and 50+ signals.</li>
+              </ul>
+            </li>
+
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">ML Researcher</h4>
+              <span>Northeastern University · Oct – Dec 2025</span>
+              <!-- TODO: add 1–2 bullets with real details/metrics -->
+            </li>
+
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Data Analyst</h4>
+              <span>Verve Bridge · Jun – Sep 2024</span>
+              <!-- TODO: add 1–2 bullets with real details/metrics -->
+            </li>
+
+          </ol>
+        </section>
+
+        <!-- EDUCATION -->
+        <section class="timeline">
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+            <h3 class="h3">Education</h3>
+          </div>
+
+          <ol class="timeline-list">
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">MS in Artificial Intelligence</h4>
+              <span>Northeastern University · Expected December 2027</span>
+              <p class="timeline-text">
+                GPA 3.54/4.00. Coursework includes Information Retrieval (CS 6200).
+              </p>
+            </li>
+
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Bachelor of Computer Applications (BCA)</h4>
+              <span>VIPS, GGSIPU · Graduated June 2025</span>
+              <p class="timeline-text">
+                GPA 3.64. Programming, Data Structures, Analytics, and Databases.
+              </p>
+            </li>
+          </ol>
+        </section>
+
+        <!-- SKILLS -->
+        <section class="skill">
+          <h3 class="h3 skills-title">Skills</h3>
+
+          <div class="skills-list content-card">
+
+            <div class="skills-group">
+              <h5 class="h5">LLMs &amp; Agents</h5>
+              <div class="skills-tags">
+                <span class="tag">LangGraph</span>
+                <span class="tag">RAG</span>
+                <span class="tag">LLM-as-judge evaluation</span>
+                <span class="tag">Dense retrieval</span>
+                <span class="tag">LLM pretraining</span>
+              </div>
+            </div>
+
+            <div class="skills-group">
+              <h5 class="h5">Machine Learning &amp; Deep Learning</h5>
+              <div class="skills-tags">
+                <span class="tag">PyTorch</span>
+                <span class="tag">TensorFlow</span>
+                <span class="tag">scikit-learn</span>
+                <span class="tag">XGBoost</span>
+                <span class="tag">Transfer learning</span>
+                <span class="tag">Topic modeling</span>
+              </div>
+            </div>
+
+            <div class="skills-group">
+              <h5 class="h5">Languages</h5>
+              <div class="skills-tags">
+                <span class="tag">Python</span>
+                <span class="tag">SQL</span>
+                <span class="tag">R</span>
+                <span class="tag">Java</span>
+                <span class="tag">C</span>
+                <span class="tag">Bash</span>
+                <span class="tag">HTML/CSS</span>
+              </div>
+            </div>
+
+            <div class="skills-group">
+              <h5 class="h5">Data &amp; Tools</h5>
+              <div class="skills-tags">
+                <span class="tag">MySQL</span>
+                <span class="tag">ETL</span>
+                <span class="tag">Tableau</span>
+                <span class="tag">Streamlit</span>
+                <span class="tag">AWS</span>
+                <span class="tag">Git</span>
+                <span class="tag">Linux</span>
+              </div>
+            </div>
+
+          </div>
+        </section>
+
+        <div class="resume-download-wrapper">
+          <a href="./assets/files/CV_resume.pdf" download class="resume-download-btn">
+            <ion-icon name="download-outline"></ion-icon>
+            <span>Download Resume</span>
+          </a>
+        </div>
+
+      </article>
+
+      <!-- PROJECTS -->
+      <article class="portfolio" data-page="portfolio">
+
+        <header>
+          <h2 class="h2 article-title">Projects</h2>
+        </header>
+
+        <ul class="project-list project-grid">
+
+          <!-- Nanochat -->
+          <li class="project-item active">
+            <a href="https://github.com/Pavanijain03/nanochat_architect" target="_blank" rel="noopener noreferrer" class="project-card">
+              <figure class="project-img">
+                <div class="project-item-icon-box">
+                  <ion-icon name="eye-outline"></ion-icon>
+                </div>
+                <img src="./assets/images/nanochat2.png" loading="lazy" alt="Nanochat – GPT Pretraining & LLM Systems Optimization">
+              </figure>
+              <div class="project-content">
+                <h3 class="project-title">Nanochat – GPT Pretraining &amp; LLM Systems Optimization</h3>
+                <p class="project-category">LLM Pretraining • Scaling Laws • Distributed PyTorch</p>
+                <p class="project-desc">
+                  <!-- REVIEW: confirm these numbers are from your own training run (see notes) -->
+                  Built an end-to-end GPT pretraining framework to reproduce GPT-2-grade capability
+                  in ~3 hours on 8×H100 GPUs (~$72 cost) by optimizing depth scaling, hyperparameter automation,
+                  and distributed training. Includes tokenization, evaluation (CORE), inference, and a web UI.
+                </p>
+                <div class="project-tags">
+                  <span class="tag">PyTorch</span>
+                  <span class="tag">LLMs</span>
+                  <span class="tag">Scaling</span>
+                </div>
+                <div class="project-actions">
+                  <span class="btn-mini">View Repo</span>
+                </div>
+              </div>
+            </a>
+          </li>
+
+          <!-- FairSearch-arXiv -->
+          <li class="project-item active">
+            <a href="https://github.com/PratyushTyagi/IR-FairSearch-arXiv-Team6" target="_blank" rel="noopener noreferrer" class="project-card">
+              <figure class="project-img">
+                <div class="project-item-icon-box">
+                  <ion-icon name="eye-outline"></ion-icon>
+                </div>
+                <!-- TODO: add a screenshot of the fairness scorecard at this path -->
+                <img src="./assets/images/fairsearch.png" loading="lazy" alt="FairSearch-arXiv fairness scorecard">
+              </figure>
+              <div class="project-content">
+                <h3 class="project-title">FairSearch-arXiv – Prestige Bias in Retrieval &amp; LLM Generation</h3>
+                <p class="project-category">Information Retrieval • Fairness • RAG Evaluation</p>
+                <p class="project-desc">
+                  Team project (CS 6200) auditing institutional prestige bias in dense retrieval and LLM generation
+                  over a ~50K-paper arXiv corpus. I owned corpus enrichment and fairness evaluation. SPD confidence
+                  intervals spanned zero at every k, and Fair-Top-K preserved precision while MMR cost 2–5 precision
+                  points with no measurable fairness gain. Results ship in a Streamlit fairness scorecard.
+                </p>
+                <div class="project-tags">
+                  <span class="tag">Dense Retrieval</span>
+                  <span class="tag">Fairness</span>
+                  <span class="tag">Streamlit</span>
+                </div>
+                <div class="project-actions">
+                  <span class="btn-mini">View Repo</span>
+                </div>
+              </div>
+            </a>
+          </li>
+
+          <!-- NU Hacks RAG Clinical Q&A -->
+          <li class="project-item active">
+            <!-- TODO: replace # with the repo or Devpost URL -->
+            <a href="#" target="_blank" rel="noopener noreferrer" class="project-card">
+              <figure class="project-img">
+                <div class="project-item-icon-box">
+                  <ion-icon name="eye-outline"></ion-icon>
+                </div>
+                <!-- TODO: add a screenshot at this path -->
+                <img src="./assets/images/nuhacks.png" loading="lazy" alt="RAG clinical Q&A tool">
+              </figure>
+              <div class="project-content">
+                <h3 class="project-title">RAG Clinical Q&amp;A – 1st Runner-Up, NU Hacks 2026</h3>
+                <p class="project-category">RAG • LLMs • Healthcare AI</p>
+                <p class="project-desc">
+                  Built a retrieval-augmented clinical question-answering tool with a team of 4 during a 48-hour
+                  hackathon (March 2026), placing 1st Runner-Up.
+                  <!-- TODO: add what it retrieved over, the stack, and how answers were grounded -->
+                </p>
+                <div class="project-tags">
+                  <span class="tag">RAG</span>
+                  <span class="tag">LLMs</span>
+                  <span class="tag">Hackathon</span>
+                </div>
+                <div class="project-actions">
+                  <span class="btn-mini">View Repo</span>
+                </div>
+              </div>
+            </a>
+          </li>
+
+          <!-- OCT Retinal Disease Detection -->
+          <li class="project-item active">
+            <a href="https://github.com/Pavanijain03/oct_retinal_disease_detection" target="_blank" rel="noopener noreferrer" class="project-card">
+              <figure class="project-img">
+                <div class="project-item-icon-box">
+                  <ion-icon name="eye-outline"></ion-icon>
+                </div>
+                <img src="./assets/images/oct-scan.png" loading="lazy" alt="OCT Retinal Disease Detection">
+              </figure>
+              <div class="project-content">
+                <h3 class="project-title">OCT Retinal Disease Detection</h3>
+                <p class="project-category">Deep Learning • Medical Imaging • Transfer Learning</p>
+                <p class="project-desc">
+                  Fine-tuned a DenseNet-121 (ImageNet transfer learning) to classify retinal disease from
+                  100K+ OCT scans, reaching 95.4% test accuracy and 98.8% ROC-AUC. Deployed as an interactive
+                  Streamlit inference app.
+                </p>
+                <div class="project-tags">
+                  <span class="tag">PyTorch</span>
+                  <span class="tag">DenseNet-121</span>
+                  <span class="tag">Medical AI</span>
+                </div>
+                <div class="project-actions">
+                  <span class="btn-mini">View Repo</span>
+                </div>
+              </div>
+            </a>
+          </li>
+
+          <!-- Genomic Text Curation -->
+          <li class="project-item active">
+            <a href="https://github.com/Pavanijain03/nlp_system_genomics" target="_blank" rel="noopener noreferrer" class="project-card">
+              <figure class="project-img">
+                <div class="project-item-icon-box">
+                  <ion-icon name="eye-outline"></ion-icon>
+                </div>
+                <img src="./assets/images/genomic.png" loading="lazy" alt="Genomic Text Curation & Topic Grouping">
+              </figure>
+              <div class="project-content">
+                <h3 class="project-title">Genomic Text Curation &amp; Topic Grouping</h3>
+                <p class="project-category">NLP • Topic Modeling • Information Extraction</p>
+                <p class="project-desc">
+                  Built an NLP pipeline to extract variants, genes, and diseases from genomics literature
+                  (84% extraction precision, 78% recall), generate relation triples, and cluster texts using
+                  TF-IDF, K-Means, NMF, and LDA.
+                </p>
+                <div class="project-tags">
+                  <span class="tag">Python</span>
+                  <span class="tag">NLP</span>
+                  <span class="tag">Topic Modeling</span>
+                </div>
+                <div class="project-actions">
+                  <span class="btn-mini">View Repo</span>
+                </div>
+              </div>
+            </a>
+          </li>
+
+          <!-- Amazon -->
+          <li class="project-item active">
+            <a href="https://github.com/Pavanijain03/amazon-product-recommendation" target="_blank" rel="noopener noreferrer" class="project-card">
+              <figure class="project-img">
+                <div class="project-item-icon-box">
+                  <ion-icon name="eye-outline"></ion-icon>
+                </div>
+                <img src="./assets/images/amazon-product.png" loading="lazy" alt="Amazon Product Recommendation">
+              </figure>
+              <div class="project-content">
+                <h3 class="project-title">Amazon Product Recommendation</h3>
+                <p class="project-category">Machine Learning • Recommender Systems</p>
+                <p class="project-desc">
+                  Built a collaborative filtering recommender to suggest products using user-item interactions,
+                  evaluated with RMSE/MAE for recommendation quality.
+                </p>
+                <div class="project-tags">
+                  <span class="tag">Python</span>
+                  <span class="tag">Collaborative Filtering</span>
+                  <span class="tag">Recommenders</span>
+                </div>
+                <div class="project-actions">
+                  <span class="btn-mini">View Repo</span>
+                </div>
+              </div>
+            </a>
+          </li>
+
+          <!-- Bank Loan Analysis -->
+          <li class="project-item active">
+            <a href="https://github.com/Pavanijain03/bank_loan_analysis" target="_blank" rel="noopener noreferrer" class="project-card">
+              <figure class="project-img">
+                <div class="project-item-icon-box">
+                  <ion-icon name="eye-outline"></ion-icon>
+                </div>
+                <img src="./assets/images/bank-loan.png" loading="lazy" alt="Bank Loan Analysis">
+              </figure>
+              <div class="project-content">
+                <h3 class="project-title">Bank Loan Report – Lending KPIs &amp; Portfolio Quality Dashboard</h3>
+                <p class="project-category">Data Analysis • Tableau • BI Dashboard</p>
+                <p class="project-desc">
+                  Built a 3-view interactive Tableau dashboard (Summary, Overview, Details) on a 38.6K-loan,
+                  $435.7M-funded portfolio — tracking KPIs (interest rate, DTI, MTD/MoM trends), portfolio
+                  quality (86.2% good vs 13.8% bad), and drill-down across grade, purpose, state, and home ownership.
+                </p>
+                <div class="project-tags">
+                  <span class="tag">Tableau</span>
+                  <span class="tag">SQL</span>
+                  <span class="tag">BI Dashboard</span>
+                </div>
+                <div class="project-actions">
+                  <span class="btn-mini">View Repo</span>
+                </div>
+              </div>
+            </a>
+          </li>
+
+          <!-- Credit Card -->
+          <li class="project-item active">
+            <a href="https://github.com/Pavanijain03/credit-card-fraud-detection" target="_blank" rel="noopener noreferrer" class="project-card">
+              <figure class="project-img">
+                <div class="project-item-icon-box">
+                  <ion-icon name="eye-outline"></ion-icon>
+                </div>
+                <img src="./assets/images/credit-card-fraud.jpg" loading="lazy" alt="Credit Card Fraud Detection">
+              </figure>
+              <div class="project-content">
+                <h3 class="project-title">Credit Card Fraud Detection</h3>
+                <p class="project-category">Anomaly Detection • Deep Learning</p>
+                <p class="project-desc">
+                  <!-- TODO: replace "strong" with your actual recall and ROC-AUC numbers -->
+                  Trained and compared models (LogReg, Random Forest, XGBoost, Autoencoders) to detect fraudulent
+                  transactions with strong recall and ROC-AUC performance.
+                </p>
+                <div class="project-tags">
+                  <span class="tag">XGBoost</span>
+                  <span class="tag">Autoencoders</span>
+                  <span class="tag">Fraud</span>
+                </div>
+                <div class="project-actions">
+                  <span class="btn-mini">View Repo</span>
+                </div>
+              </div>
+            </a>
+          </li>
+
+          <!-- Netflix -->
+          <li class="project-item active">
+            <a href="https://github.com/Pavanijain03/netflix-usage-analysis" target="_blank" rel="noopener noreferrer" class="project-card">
+              <figure class="project-img">
+                <div class="project-item-icon-box">
+                  <ion-icon name="eye-outline"></ion-icon>
+                </div>
+                <img src="./assets/images/dashboard-1.png" loading="lazy" alt="Netflix Usage Analysis">
+              </figure>
+              <div class="project-content">
+                <h3 class="project-title">Netflix Usage Analysis</h3>
+                <p class="project-category">Data Analysis • Tableau</p>
+                <p class="project-desc">
+                  Built an interactive Tableau dashboard to explore Netflix titles by country, genre, and year,
+                  highlighting content trends and growth patterns.
+                </p>
+                <div class="project-tags">
+                  <span class="tag">Tableau</span>
+                  <span class="tag">EDA</span>
+                  <span class="tag">Dashboard</span>
+                </div>
+                <div class="project-actions">
+                  <span class="btn-mini">View Repo</span>
+                </div>
+              </div>
+            </a>
+          </li>
+
+        </ul>
+
+      </article>
+
+      <!-- CONTACT -->
+      <article class="contact" data-page="contact">
+
+        <header>
+          <h2 class="h2 article-title">Contact</h2>
+        </header>
+
+        <section class="contact-list" style="margin-bottom: 30px;">
+          <ul class="contacts-list">
+
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="mail-outline"></ion-icon>
+              </div>
+              <div class="contact-info">
+                <p class="contact-title">Email</p>
+                <a href="mailto:jain.pav@northeastern.edu" class="contact-link">
+                  jain.pav@northeastern.edu
+                </a>
+              </div>
+            </li>
+
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="logo-linkedin"></ion-icon>
+              </div>
+              <div class="contact-info">
+                <p class="contact-title">LinkedIn</p>
+                <a href="https://www.linkedin.com/in/pavani-jain-ab6488204/" target="_blank" rel="noopener noreferrer" class="contact-link">
+                  linkedin.com/in/pavani-jain-ab6488204
+                </a>
+              </div>
+            </li>
+
+            <li class="contact-item">
+              <div class="icon-box">
+                <ion-icon name="logo-github"></ion-icon>
+              </div>
+              <div class="contact-info">
+                <p class="contact-title">GitHub</p>
+                <a href="https://github.com/Pavanijain03" target="_blank" rel="noopener noreferrer" class="contact-link">
+                  github.com/Pavanijain03
+                </a>
+              </div>
+            </li>
+
+          </ul>
+        </section>
+
+        <section class="contact-form">
+          <h3 class="h3 form-title">Send a Message</h3>
+
+          <form action="https://formspree.io/f/xpqdajnr" method="POST" class="form">
+
+            <div class="input-wrapper">
+              <input type="text" name="name" class="form-input" placeholder="Full Name" aria-label="Full Name" required>
+              <input type="email" name="email" class="form-input" placeholder="Email Address" aria-label="Email Address" required>
+            </div>
+
+            <textarea name="message" class="form-input" placeholder="Your Message" aria-label="Your Message" required></textarea>
+
+            <input type="hidden" name="_subject" value="New Portfolio Contact Message">
+            <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+
+            <button class="form-btn" type="submit">
+              <ion-icon name="paper-plane"></ion-icon>
+              <span>Send Message</span>
+            </button>
+
+          </form>
+        </section>
+
+      </article>
+
+    </div>
+  </main>
+
+  <script src="./assets/js/script.js"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>
